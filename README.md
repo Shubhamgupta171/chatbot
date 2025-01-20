@@ -1,6 +1,6 @@
 # Deploy chatbot just intigrate where need it .
 
-This project was bootstrapped with [Create React App](https://678e8128f46f744cf71e871b--25cent-chatbot.netlify.app/).
+Click here --> [Chatbot](https://678e8128f46f744cf71e871b--25cent-chatbot.netlify.app/).
 
 
 # Getting Started with Create React App
